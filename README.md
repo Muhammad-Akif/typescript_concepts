@@ -1,2 +1,6 @@
 # typescript Fundamentals Concept
-TypeScript Concepts in Brief Individually and with react
+
+TypeScript Concepts: 
+- Theoratical Slides
+- General Implementation.
+- with React Implementation.
